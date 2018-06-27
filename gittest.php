@@ -20,3 +20,4 @@ class khachhangController extends Controller
     }
 }
 ?>
+edidtted
