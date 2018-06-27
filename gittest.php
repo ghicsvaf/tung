@@ -21,5 +21,5 @@ class khachhangController extends Controller
 }
 ?>
 edidtted
-another changes
+another changes wtf
 hello mothe
