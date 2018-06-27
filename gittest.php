@@ -22,3 +22,4 @@ class khachhangController extends Controller
 ?>
 edidtted
 another change
+hello mothe
